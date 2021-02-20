@@ -7,4 +7,5 @@ PUBS database is used that includes a fictional set of information about
 4.	The sales of their associated books.
 
 HW1&2 is developed in MySQL
+
 HW3 is developed in Neo4j
